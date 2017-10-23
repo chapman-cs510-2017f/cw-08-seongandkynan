@@ -1,8 +1,8 @@
 # CS510 CW 8
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Seong and Kynan**
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-08-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-08-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-08-seongandkynan.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-08-seongandkynan)
 
 ## Specification
 
@@ -29,7 +29,8 @@ def julia(z):
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+1. **The performance of Numba was impressive because it plotted charts more than 20 times faster. It was also convenient that we can make that speed improvemet with a few minor updates of the existing Python code.**
+1. **The practices of Julia was helpful. It was easier to understand Julia syntax with using the previous works, because we are already familiar to the data on our hands.**
 
 ## Honor Pledge
 
@@ -40,4 +41,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Seong and Kynan**
